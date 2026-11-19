@@ -4,3 +4,5 @@ Ce plugin pour iitc (ou plutôt userscript a été créé par Loupblanc1212 pour
 
 Bonne utilisation !
 
+<img src="https://github.com/LoupblancSwitzerland/Ingress/blob/main/Badge%20hexagonal%20cyan%20de%20Lavaux.png" align="center">
+
