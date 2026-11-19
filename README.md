@@ -1,14 +1,21 @@
-# Ingress
+# Calculateur de MU pour IITC
 
-<div>Ce plugin pour iitc (ou plutôt userscript a été créé par Loupblanc1212 pour un agent très spécial, et j'ai donc créé le plug-in.</div>
-<div align="center"><img src="https://github.com/LoupblancSwitzerland/Ingress/blob/main/badge-calculateur-mu.png" height="512" align="center" alt="balise personnalisée du MU"></div>
-<br>
+<p align="center">
+  <img src="./badge-calculateur-mu.png" width="300" alt="Badge du Calculateur de MU avec trois silhouettes bronze, or et argent">
+</p>
+
+## Français
+
+J’ai créé ce plug-in IITC pour un agent très spécial. Il permet d’estimer les Mind Units (MU) de champs Ingress à partir des portails sélectionnés sur la carte.
+
 Bonne utilisation !
 
-<div>This iitc plugin (or rather, userscript) was created by Loupblanc1212 for a very special agent, so I created the plugin.</div>
-<div align="center"><img src="https://github.com/LoupblancSwitzerland/Ingress/blob/main/badge-calculateur-mu.png" height="512" align="center" alt="MU custom tag"></div>
-<br>
+---
+
+## English
+
+I created this IITC plugin for a very special agent. It estimates the Mind Units (MU) of Ingress fields using the portals you select on the map.
+
 Enjoy!
 
-
-
+**Loupblanc1212**
