@@ -14,7 +14,7 @@ Bonne utilisation !
 
 ## English
 
-I created this IITC plugin for a very special agent. It estimates the Mind Units (MU) of Ingress fields using the portals you select on the map.
+I created this IITC plugin "MU calculator" for a very special agent. It estimates the Mind Units (MU) of Ingress fields using the portals you select on the map.
 
 Enjoy!
 
